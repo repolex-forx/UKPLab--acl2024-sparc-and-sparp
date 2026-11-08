@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2024-sparc-and-sparp",
+  "versions": [
+    {
+      "commit": "b4568a8030976941cb0037fb6399d48f893d8fa4",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:57:56.140169+00:00"
+    }
+  ]
+}
